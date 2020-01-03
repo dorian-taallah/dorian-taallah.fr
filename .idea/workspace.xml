@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d8e9a4ef-6620-4797-bc99-2766c64ee2eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/images/cv.pdf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +16,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
+            <state relative-caret-position="7973">
               <caret line="508" column="35" lean-forward="true" selection-start-line="508" selection-start-column="35" selection-end-line="508" selection-end-column="35" />
             </state>
           </provider>
@@ -82,7 +81,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578009880565" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578010146738" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -112,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572458103836</updated>
       <workItem from="1572458105207" duration="14118000" />
-      <workItem from="1578003349384" duration="6513000" />
+      <workItem from="1578003349384" duration="6620000" />
     </task>
     <task id="LOCAL-00001" summary="maj">
       <created>1578009253571</created>
@@ -128,15 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578009782174</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="maj">
+      <created>1578009889607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578009889607</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20631000" />
+    <option name="totallyTimeSpent" value="20738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18322147" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -227,7 +232,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
+        <state relative-caret-position="7973">
           <caret line="508" column="35" lean-forward="true" selection-start-line="508" selection-start-column="35" selection-end-line="508" selection-end-column="35" />
         </state>
       </provider>
