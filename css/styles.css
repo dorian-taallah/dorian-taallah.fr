@@ -1,0 +1,96 @@
+header {
+  min-height: 127px;
+  margin-bottom: 40px;
+}
+
+#menu {
+  position: fixed;
+  margin-left: 15%;
+  margin-right: 15%;
+  z-index: 1;
+}
+
+.header-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background-size: cover;
+  background-color: #242843;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../images/avatar.jpg);
+  height: 480px;
+}
+
+#wrapper {
+  max-width: 970px;
+}
+.profile-title {
+  display: inline-block;
+  width: 150px;
+  margin-bottom: 8px;
+}
+
+.profile-desc {
+  display: inline-block;
+  color: #848484;
+  margin-bottom: 8px;
+}
+
+.social-icons li {
+  display: inline-block;
+  padding: 0px 9px;
+}
+
+.row {
+  margin-bottom: 0px;
+}
+
+img.avatar {
+  margin-top: 20px;
+  display: inline;
+  width: auto;
+}
+
+img {
+  display: inline-block;
+  width: 100%;
+}
+
+.info ul {
+  display: inline-block;
+  text-align: left;
+}
+
+h1 {
+  font-size: 42px;
+  line-height: 42px;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 35px;
+}
+.info p {
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 500;
+  margin-bottom: 20px !important;
+}
+
+.interests > div {
+  padding: 0px 5px;
+}
+
+#scrollUp {
+  position: fixed;
+  bottom : 30px;
+  right: 50px;
+  opacity: 0.6;
+}
+
+.projet p {
+  text-align: justify;
+}
