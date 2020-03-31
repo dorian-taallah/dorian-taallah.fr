@@ -4,10 +4,10 @@ header {
 }
 
 #menu {
-  position: relative;
+  position: fixed;
   margin-left: 15%;
   margin-right: 15%;
-  z-index: 1;
+  z-index: 2;
 }
 
 a.grey-text.text-darken-3.waves-effect.waves-dark.grey.lighten-3.btn {
@@ -105,4 +105,12 @@ h2 {
 
 #competencesT {
   text-align: center;
+}
+
+.card .card-image img {
+  height: 6em;
+}
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+  margin-right: 0 !important;
 }
