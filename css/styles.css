@@ -114,3 +114,19 @@ h2 {
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
   margin-right: 0 !important;
 }
+
+.pres>li {
+     list-style-type: none !important;
+}
+
+.apport>li {
+    list-style-type: disc !important;
+}
+
+.imgprojet {
+  overflow: hidden;
+  bottom: auto;
+  margin: 0;
+  height: 200px;
+  width: 300px;
+}
