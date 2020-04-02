@@ -130,3 +130,15 @@ h2 {
   height: 200px;
   width: 300px;
 }
+
+.projetpro{
+  padding: 0 !important;
+  text-align: center;
+}
+
+.fleche {
+  width: 50px;
+  height: 44.875px;
+  margin-top: 200%;
+  padding-right: 10%;
+}
