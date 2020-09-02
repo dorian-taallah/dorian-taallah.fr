@@ -11,7 +11,7 @@ header {
 }
 
 a.grey-text.text-darken-3.waves-effect.waves-dark.grey.lighten-3.btn {
-  margin-left: 0; !important;
+  margin-left: 0 !important;
 }
 
 .header-bg {
@@ -41,11 +41,6 @@ a.grey-text.text-darken-3.waves-effect.waves-dark.grey.lighten-3.btn {
   display: inline-block;
   color: #848484;
   margin-bottom: 8px;
-}
-
-.social-icons li {
-  display: inline-block;
-  padding: 0px 9px;
 }
 
 .row {
